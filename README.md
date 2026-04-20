@@ -107,7 +107,9 @@ python train.py
 ## Console:
 
 Training loss
+
 Accuracy
+
 Sparsity %
 
 ## Files generated:
@@ -118,19 +120,27 @@ gate_distribution.png
 ## 14.Key Concepts Demonstrated
 
 Neural network pruning
+
 L1 regularization for sparsity
+
 Custom PyTorch layer implementation
+
 CNN-based feature extraction
+
 Trade-off between model size and accuracy
 
 
 ## 15.Future Improvements
 
 Structured pruning (neuron/channel pruning)
+
 Fine-tuning after pruning
+
 Comparison with baseline (non-pruned model)
+
 Deployment optimization (ONNX / TorchScript)
 
 
 ## Author
+
 Sai Priyaa M
