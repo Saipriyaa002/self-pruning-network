@@ -77,13 +77,19 @@ gate_distribution.png
 ## 10.Project Structure
 
 self-pruning-network/
-│
+
 ├── model.py # Model + prunable layers
+
 ├── utils.py # Sparsity loss and metrics
+
 ├── train.py # Training + evaluation
+
 ├── report.md # Analysis and results
+
 ├── README.md # Documentation
+
 ├── requirements.txt # Dependencies
+
 └── gate_distribution.png # Output plot
 
 
